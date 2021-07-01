@@ -1,0 +1,22 @@
+img{
+    display: block;
+    width: auto;
+    height: 650px;
+    margin: auto;
+    margin-top: 1.3rem;
+    /* border: 3px solid gray; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+button{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-top: 1.3rem;
+    margin-left: 46rem;
+    cursor: pointer;
+    background: #FFCC99;
+}
+button:hover{
+     background: #FFCC00;
+}
